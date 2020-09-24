@@ -27,4 +27,8 @@ public class UserController {
         }
 
     }
+
+    public void test(){
+        System.out.println("做提交测试");
+    }
 }
